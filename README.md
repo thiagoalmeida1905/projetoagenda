@@ -10,22 +10,23 @@ Para gerenciar as dependências e scripts do projeto, utilizamos o NPM (Node Pac
 
 O ambiente de desenvolvimento é configurado de forma segura e eficiente com o uso do Dotenv, que permite a gestão de variáveis de ambiente. Para garantir a validação dos dados, a aplicação utiliza a biblioteca Validator, enquanto o Reg Runtime é empregado para facilitar a execução de operações assíncronas. Adicionalmente, o Helmet é utilizado para fortalecer a segurança da aplicação, implementando diversas medidas de proteção.
 
-Ferramentas Utilizadas:
+Ferramentas Utilizadas:  
 
-Node.js
-Express.js
-MongoDB
-Mongoose
-HTML
-CSS
-JavaScript (especialmente no back-end)
-EJS (Engine de Visualização)
-Validator (para validação de dados)
-Bcrypt.js (para criptografia de senhas)
-Flash (para exibição de mensagens temporárias)
-NPM (Node Package Manager)
-Nodemon
-Bundle
-Dotenv
-Reg Runtime
-Helmet
+1. Node.js 
+2. Express.js 
+3. MongoDB 
+4. Mongoose 
+5. HTML 
+6. CSS 
+7. JavaScript (especialmente no back-end) 
+8. EJS (Engine de Visualização) 
+9. Validator (para validação de dados) 
+10. Bcrypt.js (para criptografia de senhas) 
+11. Flash (para exibição de mensagens temporárias) 
+12. NPM (Node Package Manager) 
+13. Nodemon 
+14. Bundle 
+15. Dotenv 
+16. Reg Runtime 
+17. Helmet
+
