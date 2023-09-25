@@ -1,6 +1,6 @@
-# projetoagenda
+# PROJETO AGENDA
 
-Descrição do Projeto:
+##Descrição do Projeto:
 
 O projeto consiste na criação de uma aplicação de agenda, com um enfoque primário em seu back-end. Utilizando JavaScript como principal linguagem de programação, a aplicação emprega o padrão de arquitetura MVC (Model-View-Controller) para uma organização eficiente do código.
 
@@ -10,7 +10,9 @@ Para gerenciar as dependências e scripts do projeto, utilizamos o NPM (Node Pac
 
 O ambiente de desenvolvimento é configurado de forma segura e eficiente com o uso do Dotenv, que permite a gestão de variáveis de ambiente. Para garantir a validação dos dados, a aplicação utiliza a biblioteca Validator, enquanto o Reg Runtime é empregado para facilitar a execução de operações assíncronas. Adicionalmente, o Helmet é utilizado para fortalecer a segurança da aplicação, implementando diversas medidas de proteção.
 
-Ferramentas Utilizadas:  
+OBS.: Ainda não fiz o deploy do projeto
+
+## 🕹 Tecs utilizadas
 
 1. Node.js 
 2. Express.js 
